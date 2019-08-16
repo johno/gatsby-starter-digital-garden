@@ -5034,7 +5034,7 @@ gatsby-telemetry@^1.1.11:
     stack-utils "1.0.2"
     uuid "3.3.2"
 
-gatsby-theme-digital-garden-blog@^0.2.2:
+gatsby-theme-digital-garden-blog@^0.2.3:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/gatsby-theme-digital-garden-blog/-/gatsby-theme-digital-garden-blog-0.2.3.tgz#a6d8b9c6da5fa2ebf8b9fa209d6e30cf9156bf24"
   integrity sha512-SpoLbEXZER07d5U1pIBxM6Sf0qlDb7rQdLyiuQgPDOiszcDxCN2W0OOFcJPTTwTFrKnx7YEyakPOcJESi2SobA==
@@ -5049,7 +5049,7 @@ gatsby-theme-digital-garden-blog@^0.2.2:
     is-present "^1.0.0"
     react-feather "^2.0.3"
 
-gatsby-theme-digital-garden-portfolio@^0.2.2:
+gatsby-theme-digital-garden-portfolio@^0.2.3:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/gatsby-theme-digital-garden-portfolio/-/gatsby-theme-digital-garden-portfolio-0.2.3.tgz#68a602a8d35038d653b591b3b21aa041a840a2f1"
   integrity sha512-Vtsnq3pw1Cq97xpgv/axY0sFrTrJ+Q4/+1IQQA/ZlxklqcpGyvunZH/fFld5xsG4P4dIPSRQUFuD3Y5/XurXZw==
@@ -5060,7 +5060,7 @@ gatsby-theme-digital-garden-portfolio@^0.2.2:
     gatsby-source-filesystem "^2.1.8"
     mkdirp "^0.5.1"
 
-gatsby-theme-digital-garden@^0.2.2:
+gatsby-theme-digital-garden@^0.2.3:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/gatsby-theme-digital-garden/-/gatsby-theme-digital-garden-0.2.3.tgz#f5ff1b833eb03b949ee44a774588904e0441e2f0"
   integrity sha512-eN/KaRhCe9Tpsb4LbsBWDD3t/Idl6GxEay3wnXFg+xDg+OGWqp1NUlZqJSkeUef9iBdy+xhCIohIb5GdhFfA/g==
