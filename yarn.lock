@@ -5035,9 +5035,9 @@ gatsby-telemetry@^1.1.11:
     uuid "3.3.2"
 
 gatsby-theme-digital-garden-blog@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-digital-garden-blog/-/gatsby-theme-digital-garden-blog-0.2.2.tgz#d361d3450021b354904fd363cc4c17da3c16fb7d"
-  integrity sha512-t2876oz3DNsm5/I07heCNfOBXZdCYNWvDT3gajU1Zn6jSeslpufgelSvtyhkxvHf0JfKjdr41mmItdZNAhJtrQ==
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-digital-garden-blog/-/gatsby-theme-digital-garden-blog-0.2.3.tgz#a6d8b9c6da5fa2ebf8b9fa209d6e30cf9156bf24"
+  integrity sha512-SpoLbEXZER07d5U1pIBxM6Sf0qlDb7rQdLyiuQgPDOiszcDxCN2W0OOFcJPTTwTFrKnx7YEyakPOcJESi2SobA==
   dependencies:
     "@mdx-js/mdx" "^1.1.5"
     "@mdx-js/react" "^1.1.5"
@@ -5050,9 +5050,9 @@ gatsby-theme-digital-garden-blog@^0.2.2:
     react-feather "^2.0.3"
 
 gatsby-theme-digital-garden-portfolio@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-digital-garden-portfolio/-/gatsby-theme-digital-garden-portfolio-0.2.2.tgz#beb7860f73bdbc2fcb4e54f36a7bcf4e16e5d19d"
-  integrity sha512-xpi3vHuuaTPYTAM6WFK2tuJ7dW8pCMRz32TaA7bzLaVknBzUj/82b753Yo/nqR2VQkJ1oswf17M5D1YpA84DrA==
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-digital-garden-portfolio/-/gatsby-theme-digital-garden-portfolio-0.2.3.tgz#68a602a8d35038d653b591b3b21aa041a840a2f1"
+  integrity sha512-Vtsnq3pw1Cq97xpgv/axY0sFrTrJ+Q4/+1IQQA/ZlxklqcpGyvunZH/fFld5xsG4P4dIPSRQUFuD3Y5/XurXZw==
   dependencies:
     debug "^4.1.1"
     gatsby-plugin-compile-es6-packages "^2.1.0"
@@ -5061,9 +5061,9 @@ gatsby-theme-digital-garden-portfolio@^0.2.2:
     mkdirp "^0.5.1"
 
 gatsby-theme-digital-garden@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-digital-garden/-/gatsby-theme-digital-garden-0.2.2.tgz#9590d9f91a2a14d11c9663a2d60553d2ab6e59a1"
-  integrity sha512-e2cmTBsLjsV2oU2u88yOlv7l9YcGE6Urk8Cc3grCUcq2ILO4wXTyjXGA3p5DoAPc960yGiBXS3xnkeuwfLGEfA==
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-digital-garden/-/gatsby-theme-digital-garden-0.2.3.tgz#f5ff1b833eb03b949ee44a774588904e0441e2f0"
+  integrity sha512-eN/KaRhCe9Tpsb4LbsBWDD3t/Idl6GxEay3wnXFg+xDg+OGWqp1NUlZqJSkeUef9iBdy+xhCIohIb5GdhFfA/g==
   dependencies:
     "@emotion/core" "^10.0.15"
     "@mdx-js/mdx" "^1.1.5"
@@ -9091,15 +9091,15 @@ react-dev-utils@^4.2.3:
     strip-ansi "3.0.1"
     text-table "0.2.0"
 
-react-dom@16.8.6:
-  version "16.8.6"
-  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.8.6.tgz#71d6303f631e8b0097f56165ef608f051ff6e10f"
-  integrity sha512-1nL7PIq9LTL3fthPqwkvr2zY7phIPjYrT0jp4HjyEQrEROnw4dG41VVwi/wfoCneoleqrNX7iAD+pXebJZwrwA==
+react-dom@16.9.0:
+  version "16.9.0"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.9.0.tgz#5e65527a5e26f22ae3701131bcccaee9fb0d3962"
+  integrity sha512-YFT2rxO9hM70ewk9jq0y6sQk8cL02xm4+IzYBz75CQGlClQQ1Bxq0nhHF6OtSbit+AIahujJgb/CPRibFkMNJQ==
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
     prop-types "^15.6.2"
-    scheduler "^0.13.6"
+    scheduler "^0.15.0"
 
 react-error-overlay@^3.0.0:
   version "3.0.0"
@@ -9170,17 +9170,7 @@ react-side-effect@^1.1.0:
     exenv "^1.2.1"
     shallowequal "^1.0.1"
 
-react@16.8.6:
-  version "16.8.6"
-  resolved "https://registry.yarnpkg.com/react/-/react-16.8.6.tgz#ad6c3a9614fd3a4e9ef51117f54d888da01f2bbe"
-  integrity sha512-pC0uMkhLaHm11ZSJULfOBqV4tIZkx87ZLvbbQYunNixAAvjnC+snJCg0XQXn9VIsttVsbZP/H/ewzgsd5fxKXw==
-  dependencies:
-    loose-envify "^1.1.0"
-    object-assign "^4.1.1"
-    prop-types "^15.6.2"
-    scheduler "^0.13.6"
-
-react@^16.8.0, react@^16.8.4:
+react@16.9.0, react@^16.8.0, react@^16.8.4:
   version "16.9.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.9.0.tgz#40ba2f9af13bc1a38d75dbf2f4359a5185c4f7aa"
   integrity sha512-+7LQnFBwkiw+BobzOF6N//BdoNw0ouwmSJTEm9cglOOmsg/TMiFHZLe2sEoN5M7LgJTj9oHH0gxklfnQe66S1w==
@@ -9731,6 +9721,14 @@ scheduler@^0.13.2, scheduler@^0.13.6:
   version "0.13.6"
   resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.13.6.tgz#466a4ec332467b31a91b9bf74e5347072e4cd889"
   integrity sha512-IWnObHt413ucAYKsD9J1QShUKkbKLQQHdxRyw73sw4FN26iWr3DY/H34xGPe4nmL1DwXyWmSWmMrA9TfQbE/XQ==
+  dependencies:
+    loose-envify "^1.1.0"
+    object-assign "^4.1.1"
+
+scheduler@^0.15.0:
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.15.0.tgz#6bfcf80ff850b280fed4aeecc6513bc0b4f17f8e"
+  integrity sha512-xAefmSfN6jqAa7Kuq7LIJY0bwAPG3xlCj0HMEBQk1lxYiDKZscY2xJ5U/61ZTrYbmNQbXa+gc7czPkVo11tnCg==
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
